@@ -1,7 +1,9 @@
-### Hi ~ 👋
+### Hi ~ 🤩
 
-[![ET-yzk's github stats](https://github-readme-stats.vercel.app/api?username=ET-yzk&count_private=true&include_all_commits=false&show_icons=true)](https://blog.yzketx.online)
+[![ET-yzk's github stats](https://github-readme-stats-etyzks-projects.vercel.app/api?username=ET-yzk&count_private=true&include_all_commits=false&show_icons=true&theme=flag-india)](https://blog.yzketx.online)
 <!-- [![iSTEP's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-yzk&layout=compact)](https://blog.yzketx.online/iSTEP.github.io/) -->
+
+[![Top Langs](https://github-readme-stats-etyzks-projects.vercel.app/api/top-langs/?username=ET-yzk&layout=compact)](https://blog.yzketx.online)
 
 <!--
 **ET-yzk/ET-yzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
