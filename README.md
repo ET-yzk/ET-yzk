@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats-etyzks-projects.vercel.app/api/top-langs/?username=ET-yzk&layout=compact&theme=flag-india)](https://blog.yzketx.online)
 
+> The above data is sourced from `GitHub`'s open capabilities and may be incomplete (~especially for forked projects~), so it's for reference only~🤪
+
 <!--
 **ET-yzk/ET-yzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
