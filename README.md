@@ -1,10 +1,11 @@
 ### Hi ~ 🤩
 
-[![ET-yzk's github stats](https://github-readme-stats-etyzks-projects.vercel.app/api?username=ET-yzk&count_private=true&include_all_commits=false&show_icons=true&theme=flag-india)](https://blog.yzketx.online)
+[![ET-yzk's github stats](https://github-readme-stats.yzketx.online/api?username=ET-yzk&count_private=true&include_all_commits=false&show_icons=true&theme=flag-india)](https://blog.yzketx.online)
 <!-- [![iSTEP's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ET-yzk&layout=compact)](https://blog.yzketx.online/iSTEP.github.io/) -->
 
-[![Top Langs](https://github-readme-stats-etyzks-projects.vercel.app/api/top-langs/?username=ET-yzk&layout=compact&theme=flag-india)](https://blog.yzketx.online)
+[![Top Langs](https://github-readme-stats.yzketx.online/api/top-langs/?username=ET-yzk&layout=compact&theme=flag-india)](https://blog.yzketx.online)
 
+![wakatime](https://github-readme-stats.yzketx.online/api/wakatime?username=kfkfka&layout=compact)
 > The above data is sourced from `GitHub`'s open capabilities and may be incomplete (~especially for forked projects~), so it's for reference only~🤪
 
 <!--
